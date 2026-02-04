@@ -1,3 +1,3 @@
-<h1>day 1 blog</h1>
+<h1>Daily Learning</h1>
 <h2>Morning Planning</h2>
-<h2>Daily Learning</h2>
+<h2>Review</h2>
